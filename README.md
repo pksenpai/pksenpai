@@ -10,7 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software & Back-End Developer
 ----------------
 
-"We have been coded to code coders to code other coders." - Parsa <PK/PY>
+"We have been coded to code coders to code other coders."
+- Parsa <PK/PY>
 
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
