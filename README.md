@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/WwUV.gif">
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa
 =============================================================================================================================
 
@@ -7,6 +5,7 @@ Software & Back-End Developer
 ----------------
 
 "We have been coded to code coders to code other coders." - Parsa <PK/PY>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/WwUV" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
