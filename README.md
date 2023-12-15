@@ -1,6 +1,6 @@
 <div>
-<img src="https://64.media.tumblr.com/ea5908f30637785b282c05f264a2b466/81a6e041294dedbf-3f/s500x750/839254025388f2cb723fda92cfd2d59fef2f2a64.gif" width="500" height="250" />
-<img src="https://64.media.tumblr.com/ea5908f30637785b282c05f264a2b466/81a6e041294dedbf-3f/s500x750/839254025388f2cb723fda92cfd2d59fef2f2a64.gif" width="500" height="250" />
+<img src="https://64.media.tumblr.com/ea5908f30637785b282c05f264a2b466/81a6e041294dedbf-3f/s500x750/839254025388f2cb723fda92cfd2d59fef2f2a64.gif" width="500" height="150" />
+<img src="https://64.media.tumblr.com/ea5908f30637785b282c05f264a2b466/81a6e041294dedbf-3f/s500x750/839254025388f2cb723fda92cfd2d59fef2f2a64.gif" width="500" height="150" />
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa
@@ -11,7 +11,7 @@ Software & Back-End Developer
 
 "We have been coded to code coders to code other coders." - Parsa <PK/PY>
 
-<img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="250" />
+<img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="200" />
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
