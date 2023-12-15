@@ -11,7 +11,7 @@ Software & Back-End Developer
 
 "We have been coded to code coders to code other coders." - Parsa <PK/PY>
 
-<img src="https://c.tenor.com/dw-cRR8KQQkAAAAC/tenor.gif" width="1000" height="50" />
+<img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="100" />
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
