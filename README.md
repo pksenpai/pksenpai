@@ -24,7 +24,7 @@ Software & Back-End Developer
 <img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="200" />
 
 <div style="text-align: center;">
-<a href="https://www.github.com/pksenpai" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/pksenpai" target="_blank" rel="noreferrer" style="text-align: center;"><img
 src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
 ### Skills
