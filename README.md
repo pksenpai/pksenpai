@@ -5,8 +5,8 @@ Software & Back-End Developer
 ----------------
 
 "We have been coded to code coders to code other coders." - Parsa <PK/PY>
-<iframe src="https://gifer.com/embed/WwUV" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+
+<img src="https://gifer.com/embed/WwUV" width="100" height="100" alt="TopImage" />
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
