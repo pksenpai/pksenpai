@@ -21,11 +21,11 @@ Software & Back-End Developer
 * 🤝  I'm open to collaborating on EVERYTHING :D
 * ⚡  Be Creative & Hardworking :3
 
-<img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="200" />
-
-
 <a href="https://www.github.com/pksenpai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+
+<img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=1000" width="1000" height="200" />
+
 
 <h2 align="center"> Skills </h2>
 <p align="center">
@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 
 
 <h2 align="center"> Stats </h2>
-<a align="center" href="http://www.github.com/pksenpai"><img src="https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="pksenpai's GitHub stats" /></a>
+<a href="http://www.github.com/pksenpai"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="pksenpai's GitHub stats" /></a>
 
-<a align="center" href="http://www.github.com/pksenpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pksenpai&stroke=22c55e&background=000000&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<a href="http://www.github.com/pksenpai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pksenpai&stroke=22c55e&background=000000&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 <a href="https://github.com/pksenpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksenpai&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
