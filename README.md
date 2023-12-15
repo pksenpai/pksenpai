@@ -10,8 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software & Back-End Developer
 ----------------
 
-<p style="margin-bottom: 10px;">"We have been coded to code coders to code other coders."</p>
-<p style="margin-top: 10px;"> - Parsa(PKPY) <p>
+<p style="margin: 10px;">"We have been coded to code coders to code other coders."</p>
+<p style="margin: 10px;"> - Parsa(PKPY) <p>
 
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
