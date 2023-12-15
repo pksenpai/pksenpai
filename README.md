@@ -8,7 +8,7 @@ Software & Back-End Developer
 
 "We have been coded to code coders to code other coders." - Parsa <PK/PY>
 
-<img src="https://i.gifer.com/WwUV.gif" width="100" height="100" />
+<img src="https://gifdb.com/images/high/angry-cat-typing-ldaeblysxncrnuzf.gif" width="100" height="100" />
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
