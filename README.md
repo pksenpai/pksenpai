@@ -8,147 +8,72 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 ### Software & Back-End Developer
 
-<foreignObject width="100%" height="100%">
-<style>
-  body {
-    min-height: 200px;
-    height: 100vh;
-    position: relative;
-    background-color: #222;
-    overflow: hidden;
-  }
-  div {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-  }
-  #whoami {
-    width: 16em;
-    height: 9.6em;
-    margin-left: -8em;
-    margin-top: -4.8em;
-    background: radial-gradient(circle, #ff0000 50%, transparent 50.2%) 0.5em 0.4em/0.8em 0.8em, radial-gradient(circle, #ffffff 50%, transparent 50.2%) 1.3em 0.4em/0.8em 0.8em, radial-gradient(circle, #229a3d 50%, transparent 50.2%) 2.1em 0.4em/0.8em 0.8em, linear-gradient(#333, #333) 0 0/100% 1.5em;
-    background-repeat: no-repeat;
-    border-radius: 0.6em;
-    box-shadow: 0 0 0 0.1em rgb(168, 85, 247), 0 1em 1.5em -0.6em rgba(0,0,0,0.7), 0 0.6em 0.5em -0.6em rgba(0,0,0,0.5), 0 0 0 40em #000000;
-  }
-  #whoami::before,
-  #whoami::after {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 1.8125em;
-    animation: 7s infinite linear;
-    z-index: -1;
-  }
-  #whoami::before {
-    width: 100%;
-    height: 500%;
-    left: 0.6em;
-    content: '$ sudo whoami \A>Parsa Ahmadian \ASoftwareEngineer BackendDeveloper \ALearning AI \Alove linux<3 \A& \Aevery creative \Aopen-source codes \A   My motto is: \A   "break your egg \A&\A get out of\A your nightmares" \A ';
-    font-family: 'Courier New', mono;
-    color: #32cd32;
-    white-space: pre-wrap;
-    text-align: left;
-    line-height: 1.25;
-    animation-name: whoamiText;
-  }
-  #whoami::after {
-    width: 24.599999999999998em;
-    height: 12.5em;
-    left: -14.399999999999999em;
-    background: linear-gradient(to top, #32cd32 0.06em, transparent 0.06em) right 7.8em top 0/0.6em 1.25em, linear-gradient(#222, #222) right top /8.4em 1.25em, linear-gradient(#222, #222) 0 2.5em /7.8em 100%, linear-gradient(#222, #222) 7.8em 1.25em/100% 100%;
-    background-repeat: no-repeat;
-    animation-name: whoamiPrinting;
-  }
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
-  @-webkit-keyframes whoamiPrinting {
-    0%, 10% {
-      transform: translate(0, 0);
-    }
-    10.01%, 12% {
-      transform: translate(0.6em, 0);
-    }
-    12.01%, 14% {
-      transform: translate(0.6em, 0);
-    }
-    14.01%, 16% {
-      transform: translate(1.2em, 0);
-    }
-    16.01%, 18% {
-      transform: translate(1.8em, 0);
-    }
-    18.01%, 20% {
-      transform: translate(2.4em, 0);
-    }
-    20.01%, 22% {
-      transform: translate(3em, 0);
-    }
-    22.01%, 24% {
-      transform: translate(3.6em, 0);
-    }
-    24.01%, 26% {
-      transform: translate(4.2em, 0);
-    }
-    26.01%, 28% {
-      transform: translate(4.8em, 0);
-    }
-    28.01%, 30% {
-      transform: translate(5.399999999999999em, 0);
-    }
-    30.01%, 32% {
-      transform: translate(6em, 0);
-    }
-    32.01%, 34% {
-      transform: translate(6.6em, 0);
-    }
-    34.01%, 36% {
-      transform: translate(7.199999999999999em, 0);
-    }
-    36.01%, 40% {
-      transform: translate(7.8em, 0);
-    }
-    40.01%, 45% {
-      transform: translate(0, 1.25em);
-    }
-    45.01%, 47% {
-      transform: translate(14.399999999999999em, 0);
-    }
-    47.01%, 49% {
-      transform: translate(14.399999999999999em, 1.25em);
-    }
-    49.01%, 51% {
-      transform: translate(14.399999999999999em, 2.5em);
-    }
-    51.01%, 53% {
-      transform: translate(14.399999999999999em, 3.75em);
-    }
-    53.01%, 79% {
-      transform: translate(14.399999999999999em, 5em);
-    }
-    79.01%, 81% {
-      transform: translate(0, 6.25em);
-    }
-    81.01%, 83% {
-      transform: translate(0, 5em);
-    }
-    83.01%, 85% {
-      transform: translate(0, 3.75em);
-    }
-    85.01%, 87% {
-      transform: translate(0, 2.5em);
-    }
-    87.01%, 89% {
-      transform: translate(0, 1.25em);
-    }
-    89.01%, 100% {
-      transform: translate(0, 0);
-    }
-  }
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
 
-</style>
-<div id="whoami"></div>
-</foreignObject>
+        .container {
+          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
   
 > <h4 style="margin: 10px;">"We have been coded to code coders to code other coders."</h4>
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian(PKPY) <p>
