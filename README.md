@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Unittest](https://img.shields.io/badge/Unittest-009688?style=for-the-badge) 
+![Unittest](https://img.shields.io/badge/Unuttest-61519e?style=for-the-badge&logo=python&logoColor=white) 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
