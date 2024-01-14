@@ -36,7 +36,9 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Django](https://img.shields.io/badge/django-013243?style=for-the-badge&logo=djdngo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-013243?style=for-the-badge&logo=fastapi&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unittest-009688?style=for-the-badge) 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
