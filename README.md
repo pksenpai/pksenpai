@@ -44,6 +44,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 ![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-23FA0F00?style=for-the-badge&logo=Celery&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
