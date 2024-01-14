@@ -64,7 +64,8 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 
 <br>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedramkarimii&label=Profile%20views&color=0e75b6&style=flat" alt="pedramkarimii" /> </p>
 <div align="center">
 
   <a href="https://github.com/pksenpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksenpai&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
