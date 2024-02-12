@@ -15,9 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
-* ✉️  You can contact me at [phopatism@gmail.com](mailto:phopatism@gmail.com)
+* ✉️  You can contact me at [Linkdin](https://www.linkedin.com/in/pksenpai/)
 * 🚀  I'm currently working on [\>MySelf<](http://github.com/pksenpai)
-* 🧠  I'm learning Data Science & Machine Learning \[:-)
+* 🧠  I'm learning CV & Machine Learning \[:-)
 * 🤝  I'm open to collaborating on EVERYTHING :D
 * ⚡  Be Creative & Hardworking :3
 
