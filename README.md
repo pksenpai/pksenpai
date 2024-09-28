@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-e0e0e0?style=for-the-badge&logo=opencv&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
@@ -66,6 +66,8 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-f37b2d?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/googlecolab-0f2056?style=for-the-badge&logo=googlecolab&logoColor=orange)
+
 </div>
 <br>
 
