@@ -45,6 +45,12 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 ![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-23FA0F00?style=for-the-badge&logo=Celery&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-d00808?style=for-the-badge&logo=keras&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-e0e0e0?style=for-the-badge&logo=tensorflow&logoColor=yellow)
+![Pytorch](https://img.shields.io/badge/pytorch-0f225c?style=for-the-badge&logo=pytorch&logoColor=ee5132)
+![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/opencv-e0e0e0?style=for-the-badge&logo=opencv&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
