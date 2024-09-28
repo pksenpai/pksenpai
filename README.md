@@ -35,6 +35,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 
 ![Django](https://img.shields.io/badge/django-0c4b33?style=for-the-badge&logo=django&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -42,7 +43,6 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Unittest](https://img.shields.io/badge/Unuttest-61519e?style=for-the-badge&logo=python&logoColor=white) 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-f7f7f7?style=for-the-badge&logo=Docker&logoColor=259ef7)
 ![Redis](https://img.shields.io/badge/Redis-d93327?style=for-the-badge&logo=Redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-23FA0F00?style=for-the-badge&logo=Celery&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-d00808?style=for-the-badge&logo=keras&logoColor=white)
