@@ -6,7 +6,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Ahmadian!
 =============================================================================================================================
-### Software & Back-End Developer
+### Computer Vision engineer & Back-End developer
 
   
 > <h4 style="margin: 10px;">"We have been coded to code coders to code other coders."</h4>
@@ -15,11 +15,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based on Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
-* ✉️  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
-* 🚀  I'm currently working on [\>MySelf<](http://github.com/pksenpai)
-* 🧠  I'm learning CV & Machine Learning \[:-)
-* 🤝  I'm open to collaborating on EVERYTHING :D
-* ⚡  Be Creative & Hardworking :3
+* 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
+* 🚀  I'm currently working at night on a big start-up project :3
+* 🧠  I'm studying IOT at university \[:-)
+* 🤝  I'm ready to cooperate in anything cool :D
+* 💡  I dont believe in luck, just Be Creative & Hardworking 🗿🗿🗿
 
 <a href="https://www.github.com/pksenpai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
