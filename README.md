@@ -31,6 +31,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 <h2 align="center"> Skills 🛠</h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00efef?style=for-the-badge&logo=cplusplus&logoColor=008383)
 
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
