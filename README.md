@@ -32,6 +32,7 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/cpp-00efef?style=for-the-badge&logo=cplusplus&logoColor=008383)
+![Java](https://img.shields.io/badge/java-d9192f?style=for-the-badge&logo=java)
 
 <!--- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) --->
 ![PostgreSql](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
