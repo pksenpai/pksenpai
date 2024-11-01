@@ -53,6 +53,8 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
 ![Matplotlib](https://img.shields.io/badge/matplotlib-orange?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-e0e0e0?style=for-the-badge&logo=opencv&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/scikitlearn-1e2340?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![YOLO](https://img.shields.io/badge/yolo-fffa08?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/mediapipe-bdbef4?style=for-the-badge&logo=mediapipe&logoColor=0194a5)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
