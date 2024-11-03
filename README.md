@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based on Earth \\-(;\_;)-/
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
-* 🚀  I'm currently working at night on a big start-up project :3
+* 🚀  I'm currently working on GANs project :3
 * 🧠  I'm studying Software engineering at DPI informatics university :)
 * 🤝  I'm ready to cooperate in anything cool :D
 * 💡  I dont believe in luck, just Be Creative & Hardworking 🗿🗿🗿
