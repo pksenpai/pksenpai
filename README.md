@@ -1,19 +1,20 @@
-<img id="randomGif" src="#" alt="Random GIF" style="max-width: 100%; height: auto;">
-    
-<script>
-    const gifs = [
-        '001.gif',
-        '002.gif',
-        '003.gif',
-        // Add more GIF URLs as needed
-    ];
-    
-    const randomIndex = Math.floor(Math.random() * gifs.length);
-    const randomGif = gifs[randomIndex];
-    
-    document.getElementById('randomGif').src = randomGif;
-</script>
-
+<body>
+    <img id="randomGif" src="#" alt="Random GIF" style="max-width: 100%; height: auto;">
+        
+    <script>
+        const gifs = [
+            '001.gif',
+            '002.gif',
+            '003.gif',
+            // Add more GIF URLs as needed
+        ];
+        
+        const randomIndex = Math.floor(Math.random() * gifs.length);
+        const randomGif = gifs[randomIndex];
+        
+        document.getElementById('randomGif').src = randomGif;
+    </script>
+</body>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Ahmadian!
