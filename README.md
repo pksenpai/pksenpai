@@ -1,7 +1,4 @@
-
-<audio id="player" preload="auto" autoplay loop>
-        <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mp3">
-</audio>
+<iframe src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
 
 <img src='007.gif' style='width: 100%;'>
 
