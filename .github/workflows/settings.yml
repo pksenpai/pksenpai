@@ -2,18 +2,18 @@ name: Play Music on GitHub Profile
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   play_music:
     runs-on: ubuntu-latest
-
     steps:
-      - name: netease-music-box
-        # You may pin to the exact commit or the version.
-        # uses: SteveYurongSu/netease-music-box@a9c27709c6a680622f1fa79b9e0a28759367388b
-        uses: SteveYurongSu/netease-music-box@v1.0
-              
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Play Music
+        uses: marvinpinto/github-action-play-music@latest
+        with:
+          track: 'https://raw.githubusercontent.com/pksenpai/pksenpai/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
+          
