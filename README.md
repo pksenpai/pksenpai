@@ -1,6 +1,7 @@
-<video controls autoplay>
-    <source src="https://github.com/pksenpai/pksenpai/blob/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3?raw=true" type="audio/mp3">
-</video>
+
+<audio id="player" preload="auto" autoplay loop>
+        <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mp3">
+</audio>
 
 <img src='007.gif' style='width: 100%;'>
 
