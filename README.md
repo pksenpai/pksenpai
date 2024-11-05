@@ -1,5 +1,6 @@
-
-[![Click to go to the DREAMLAND](007.gif)](https://www.youtube.com/embed/lr1fTEi9EMA?si=IvmZaWjZdiChOilY){:target="_blank"}
+<a href="https://www.youtube.com/embed/lr1fTEi9EMA?si=IvmZaWjZdiChOilY" target="_blank">
+  <img src='007.gif' alt="Click to go to the DREAMLAND" style='width: 100%;'>
+</a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Ahmadian!
 =============================================================================================================================
