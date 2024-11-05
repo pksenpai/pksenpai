@@ -2,8 +2,7 @@
   <img src='007.gif' alt="Click to go to the DREAMLAND" style='width: 100%;'>
 </a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <a href='https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750' target="_blank"> My name is Parsa Ahmadian! </a>
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parsa Ahmadian!
 =============================================================================================================================
 ### Computer Vision engineer & Back-End developer
 
@@ -12,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 
 
-* 🌍  I'm based on Earth \\-(;\_;)-/
+* 🌍  I'm based on Earth  <a src='https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750'> \\-(;\_;)-/ </a>
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
 * 🚀  I'm currently working on GANs project :3
