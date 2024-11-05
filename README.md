@@ -1,6 +1,6 @@
 <audio controls autoplay style="display: none;">
-  <source src="music.ogg" type="audio/ogg">
-  <source src="music.mp3" type="audio/mpeg">
+  <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.ogg" type="audio/ogg">
+  <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mpeg">
 </audio>
 
 <img src='007.gif' style='width: 100%;'>
