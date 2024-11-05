@@ -1,4 +1,4 @@
-<audio controls autoplay style="display: none;">
+<audio controls autoplay>
   <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.ogg" type="audio/ogg">
   <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mpeg">
 </audio>
