@@ -1,4 +1,25 @@
-![Random GIF](https://github.com/pksenpai/pksenpai/blob/main/random_img.html)
+![Random GIF](https://placekitten.com/200/300) 
+
+<div style="display: none;">
+    ![Random GIF 1](007.gif)
+    ![Random GIF 2](008.gif)
+</div>
+
+<script>
+    var gifs = [
+        '007.gif',
+        '008.gif',
+    ];
+
+    var img = document.querySelector('img');
+    
+    function changeImage() {
+        var randomIndex = Math.floor(Math.random() * gifs.length);
+        img.src = gifs[randomIndex];
+    }
+
+    setInterval(changeImage, 3000);
+</script>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Ahmadian!
 =============================================================================================================================
