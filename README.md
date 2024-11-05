@@ -1,7 +1,3 @@
-<audio controls autoplay style="display:none">
-  <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 <img src='007.gif' style='width: 100%;'>
 
