@@ -1,5 +1,5 @@
 <video controls autoplay name="media">
-    <source src="rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3" type="audio/mp3">
+    <source src="https://github.com/pksenpai/pksenpai/blob/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3?raw=true" type="audio/mp3">
 </video>
 
 <img src='007.gif' style='width: 100%;'>
