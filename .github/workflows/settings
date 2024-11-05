@@ -1,4 +1,4 @@
-name: Play Music
+name: Play Music on GitHub Profile
 
 on:
   push:
@@ -15,13 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Play Sound
+        uses: mxschmitt/play-sound-action@v1
         with:
-          node-version: '14'
-
-      - name: Play music
-        uses: wei/gitalk@v2
-        with:
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          sound: 'https://github.com/pksenpai/pksenpai/blob/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
