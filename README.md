@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 > <p style="margin: 10px; text-size: 3px;"> - Parsa Ahmadian <p>
 
 
-* 🌍  I'm based on Earth  <a src='https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750'> \\-(;\_;)-/ </a>
+* 🌍  I'm based on Earth [\\-(;\_;)-/](https://www.youtube.com/embed/vvqVdZPnYtA?si=Fg6k5EkRv4QlCvjI&amp;start=750)
 * 🖥️  See my portfolio at [\\(@,@)/](http://github.com/pksenpai)
 * 💬  You can contact me at [Linkdin](https://www.linkedin.com/in/p-ahmdian/)
 * 🚀  I'm currently working on GANs project :3
