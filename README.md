@@ -1,3 +1,8 @@
+<audio controls autoplay style="display: none;">
+  <source src="music.ogg" type="audio/ogg">
+  <source src="music.mp3" type="audio/mpeg">
+</audio>
+
 <img src='007.gif' style='width: 100%;'>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parsa Ahmadian!
