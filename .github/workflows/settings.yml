@@ -15,7 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Play Sound
-        uses: mxschmitt/play-sound-action@v1
+      - name: Play Music
+        uses: sohkai/telegram-playground-action@v1
         with:
-          sound: 'https://github.com/pksenpai/pksenpai/blob/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
+          audio: 'https://raw.githubusercontent.com/pksenpai/pksenpai/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
+          
