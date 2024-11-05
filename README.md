@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=lr1fTEi9EMA" target="_blank">
+<a href="https://www.youtube.com/embed/lr1fTEi9EMA?si=IvmZaWjZdiChOilY" target="_blank">
   <img src='007.gif' alt="Click to go to the DREAMLAND" style='width: 100%;'>
 </a>
 
