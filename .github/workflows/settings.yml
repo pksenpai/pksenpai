@@ -12,11 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Play Music
-        uses: sohkai/telegram-playground-action@v1
-        with:
-          audio: 'https://raw.githubusercontent.com/pksenpai/pksenpai/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
-          
+      - name: netease-music-box
+        # You may pin to the exact commit or the version.
+        # uses: SteveYurongSu/netease-music-box@a9c27709c6a680622f1fa79b9e0a28759367388b
+        uses: SteveYurongSu/netease-music-box@v1.0
+              
