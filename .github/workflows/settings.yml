@@ -1,5 +1,4 @@
-name: Play Music on GitHub Profile
-
+name: 
 on:
   push:
     branches:
@@ -9,11 +8,3 @@ jobs:
   play_music:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Play Music
-        uses: marvinpinto/github-action-play-music@latest
-        with:
-          track: 'https://raw.githubusercontent.com/pksenpai/pksenpai/main/rule-of-life-brock-hewitt-stories-in-sound-main-version-29683-03-53.mp3'
-          
