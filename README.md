@@ -85,8 +85,6 @@ src="https://img.shields.io/github/followers/pksenpai?logo=github&style=for-the-
   <a href="https://github.com/pksenpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksenpai&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
   <a href="http://www.github.com/pksenpai"><img src="https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="pksenpai's GitHub stats" /></a>
-  
-  <a href="http://www.github.com/pksenpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pksenpai&stroke=22c55e&background=000000&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 </div>
 
